@@ -1,0 +1,16 @@
+{
+  "name": "moon-to-vsc-workspace",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": "bin.js",
+  "description": "Convert moonrepo config to vscode workspace",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic Vonk",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.6.1"
+  }
+}
